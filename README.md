@@ -28,7 +28,7 @@
 
 ## 이미지 출처 📸
 - **성공적인 예시 이미지**
-  출처: ![이미지 제공 웹사이트]([https://www.example.com](https://namu.wiki/w/뽀롱뽀롱%20뽀로로))
+  출처: ![이미지 제공 웹사이트](https://namu.wiki/w/뽀롱뽀롱%20뽀로로)
 
 - **성공하지 못한 예시** 
-  출처: ![이미지 제공 웹사이트]([https://www.example.com](https://www.wallpaperbetter.com/ko/hd-wallpaper-ejwrl))
+  출처: ![이미지 제공 웹사이트](https://www.wallpaperbetter.com/ko/hd-wallpaper-ejwrl)
